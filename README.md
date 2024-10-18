@@ -17,6 +17,7 @@ To write a program to predict the marks scored by a student using the simple lin
 6.Visualize the results and calculate performance metrics (MSE, MAE, RMSE) for models performance.
 ```
 ## Program:
+```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Sushiendar M
