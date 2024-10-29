@@ -14,7 +14,8 @@ To write a program to predict the marks scored by a student using the simple lin
 3.Separate the dataset into features (X) and labels (Y).
 4.Split the data into training and testing sets using train_test_split.
 5.Train the linear regression model on the training data and predict test data outcomes.
-6.Visualize the results and calculate performance metrics (MSE, MAE, RMSE) for models performance.
+6.Plot the Scatter Plot.
+7.Visualize the results and calculate performance metrics (MSE, MAE, RMSE) for models performance.
 ```
 ## Program:
 ```
